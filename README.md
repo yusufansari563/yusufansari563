@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yusufansari563
-- 👀 I’m interested in Opensource and create next generation entitiy.
+- 👀 I’m interested in Opensource and creating a next-generation entity.
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on github, discord.
-- 📫 How to reach me : mail me on yusufansari563@gmail.com
+- 💞️ I’m looking to collaborate on GitHub and Discord.
+- 📫 How to reach me: mail me on yusufansari563@gmail.com
 
 <!---
 yusufansari563/yusufansari563 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
